@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Serene(Zhixian) Teng!
+Computer Science Engineering Graduate student at Northeastern University with a boundless enthusiasm for the world of software development.
 <!--
 **SereneTengg/SereneTengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
